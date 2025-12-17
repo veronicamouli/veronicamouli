@@ -20,9 +20,9 @@ I am **actively seeking remote or US-based roles** and am **immediately availabl
 
 ### 🔹 Key Repositories
 ----
-✅ boomi-integration-patterns (integration patterns + diagrams)
-✅ boomi-api-integration-demo (API-first integrations, Swagger, payloads, diagrams)
-✅ boomi-scripting-examples (groovy + javascript examples)
+- ✅ boomi-integration-patterns (integration patterns + diagrams)
+- ✅ boomi-api-integration-demo (API-first integrations, Swagger, payloads, diagrams)
+- ✅ boomi-scripting-examples (groovy + javascript examples)
 
 ---
 
